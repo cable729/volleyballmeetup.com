@@ -50,6 +50,10 @@ h1, h2 {
 
 .subscribe {
     margin-top: 100px;
+    padding: 0;
+}
+
+.subscribe, #mc_embed_signup {
     background-color: #444444be;
     border-radius: 8px;
 }
